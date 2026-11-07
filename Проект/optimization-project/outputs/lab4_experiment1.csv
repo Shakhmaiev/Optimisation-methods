@@ -1,4 +1,0 @@
-method;iterations;calls;grad_calls;E;grad_norm;converged
-Gradient Descent;2100;2102;2102;438.762679737442;0.000000994984;1
-Heavy Ball Optimal;524;526;526;438.762679737442;0.000000981465;1
-Nesterov Strong;197;199;199;438.762679737441;0.000001074305;1
